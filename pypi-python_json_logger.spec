@@ -4,7 +4,7 @@
 #
 Name     : pypi-python_json_logger
 Version  : 2.0.6
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/23/8a/b211a13ce19b3f571fe04cb654b806dc9c7405625647cb8f0c0cbb208f6f/python-json-logger-2.0.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/23/8a/b211a13ce19b3f571fe04cb654b806dc9c7405625647cb8f0c0cbb208f6f/python-json-logger-2.0.6.tar.gz
 Summary  : A python library adding a json log formatter
